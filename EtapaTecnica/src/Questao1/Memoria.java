@@ -2,9 +2,9 @@ package Questao1;
 
 public class Memoria {
 	
-	int frequencia;
-	String capacidade;
-	String tipo;
+	private int frequencia;
+	private String capacidade;
+	private String tipo;
 	
 	public Memoria (int frequencia, String capacidade, String tipo) {
 		this.frequencia = frequencia;

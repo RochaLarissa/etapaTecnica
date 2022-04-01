@@ -2,8 +2,8 @@ package Questao1;
 
 public class CPU {
 	
-	String clock;
-	String modelo;
+	private String clock;
+	private String modelo;
 	
 	public CPU(String clock, String modelo) {
 		this.clock = clock;

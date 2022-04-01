@@ -2,9 +2,9 @@ package Questao1;
 
 public class DiscoRigido {
 	
-	String capacidade;
-	int velocidade;
-	String tipo;
+	private String capacidade;
+	private int velocidade;
+	private String tipo;
 	
 	public DiscoRigido (String capacidade, int velocidade, String tipo) {
 		this.capacidade = capacidade;

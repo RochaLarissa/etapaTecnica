@@ -2,10 +2,10 @@ package Questao1;
 
 public class Hardware {
 	
-	String id;
-	String descricao;
-	double valor;
-	String fabricante;
+	private String id;
+	private String descricao;
+	private double valor;
+	private String fabricante;
 	
 	public Hardware (String id, String descricao, double valor, String fabricante) {
 		this.id = id;
